@@ -1,0 +1,3 @@
+interface PCGObject{
+  void render();
+}
